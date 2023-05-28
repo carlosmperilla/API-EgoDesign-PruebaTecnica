@@ -20,7 +20,7 @@ Con las siguientes credenciales:
 Se puede gestionar (Ingresar, actualizar, y eliminar) los modelos de autos.
 
 ## API con los modelos
-http://127.0.0.1:8000/api/v1/modelos-autos/
+http://127.0.0.1:8000/api/v1/modelos-autos/  
 Desde la API en el Browser se puede hacer el CRUD, directamente desde el navegador.
 
 ## Formas de ordenar o buscar en la API mediante Query-params
