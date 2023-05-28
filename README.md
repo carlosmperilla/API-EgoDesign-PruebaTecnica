@@ -24,7 +24,7 @@ http://127.0.0.1:8000/api/v1/modelos-autos/
 Desde la API en el Browser se puede hacer el CRUD, directamente desde el navegador.
 
 ## API - Documentación Swagger y ReDoc
-Swagger: http://127.0.0.1:8000/api/v1/swagger/
+Swagger: http://127.0.0.1:8000/api/v1/swagger/  
 ReDoc: http://127.0.0.1:8000/api/v1/redoc/
 
 ## Formas de ordenar o buscar en la API mediante Query-params
