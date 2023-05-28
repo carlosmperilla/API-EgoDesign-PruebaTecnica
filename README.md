@@ -23,6 +23,10 @@ Se puede gestionar (Ingresar, actualizar, y eliminar) los modelos de autos.
 http://127.0.0.1:8000/api/v1/modelos-autos/  
 Desde la API en el Browser se puede hacer el CRUD, directamente desde el navegador.
 
+## API - Documentación Swagger y ReDoc
+Swagger: http://127.0.0.1:8000/api/v1/swagger/
+ReDoc: http://127.0.0.1:8000/api/v1/redoc/
+
 ## Formas de ordenar o buscar en la API mediante Query-params
 Para ordenar de más viejo a más nuevo:
 > /modelos-autos/?ordering=anio
